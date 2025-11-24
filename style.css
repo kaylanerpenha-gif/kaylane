@@ -1,0 +1,16 @@
+body{
+    background-color: chartreuse;
+    font-family: Arial, sans-serif; 
+    height: 100vh;
+    margin: 0;
+
+
+}
+
+.caixa{
+    max-width: 1100px
+    margin: 36px auto;
+    padding: 28px;
+    background-color: aliceblue
+    box-sizing: border-box
+}
